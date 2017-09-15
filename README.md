@@ -11,7 +11,6 @@
 金大师截屏分享：
 
 ![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture-JDS.gif)
-
-我们的截屏分享：
-
 ![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture.gif)
+
+##### 注：需要我们在清单文件中开启硬件加速
