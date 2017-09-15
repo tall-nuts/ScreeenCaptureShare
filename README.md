@@ -10,8 +10,8 @@
 
 金大师截屏分享：
 
-![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture-JDS.gif =300*534)
+![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture-JDS.gif =300x534)
 
 我们的截屏分享：
 
-![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture.gif =300*534)
+![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture.gif =300x534)
