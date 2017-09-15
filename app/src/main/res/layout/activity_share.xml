@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <cn.imeina.screeencaptureshare.ScreenCaptureEditerView
+        android:id="@+id/sc_editer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#000000"
+        android:gravity="center_vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_close"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="23dp"
+                android:layout_height="23dp"
+                android:src="@drawable/ic_close_sc" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_arrows"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_arrows"
+                android:layout_width="23dp"
+                android:layout_height="23dp"
+                android:src="@drawable/selector_menu_arrows" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_bight"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_bight"
+                android:layout_width="23dp"
+                android:layout_height="23dp"
+                android:src="@drawable/selector_menu_bight" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_palette"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_palette_color"
+                android:layout_width="23dp"
+                android:layout_height="23dp"
+                android:src="@drawable/ic_palette_color_one" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_revocation"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_revocation"
+                android:layout_width="23dp"
+                android:layout_height="23dp"
+                android:src="@drawable/selector_menu_revocation" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_screencapture_share"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="23dp"
+                android:layout_height="23dp"
+                android:src="@drawable/ic_share" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

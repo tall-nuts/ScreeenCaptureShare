@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_pop"
+    android:paddingLeft="20dp"
+    android:paddingTop="15dp"
+    android:paddingRight="20dp"
+    android:paddingBottom="20dp"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/iv_size_one"
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:src="@drawable/selector_pop_size" />
+
+    <View
+        android:layout_width="18dp"
+        android:layout_height="1dp"
+        android:background="#cfd0d1" />
+
+    <ImageView
+        android:id="@+id/iv_size_two"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:src="@drawable/selector_pop_size" />
+
+    <View
+        android:layout_width="18dp"
+        android:layout_height="1dp"
+        android:background="#cfd0d1" />
+
+    <ImageView
+        android:id="@+id/iv_size_three"
+        android:layout_width="13dp"
+        android:layout_height="13dp"
+        android:src="@drawable/selector_pop_size" />
+
+    <View
+        android:layout_width="18dp"
+        android:layout_height="1dp"
+        android:background="#cfd0d1" />
+
+    <ImageView
+        android:id="@+id/iv_size_four"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:src="@drawable/selector_pop_size" />
+
+    <View
+        android:layout_width="18dp"
+        android:layout_height="1dp"
+        android:background="#cfd0d1" />
+
+    <ImageView
+        android:id="@+id/iv_size_five"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:src="@drawable/selector_pop_size" />
+</LinearLayout>

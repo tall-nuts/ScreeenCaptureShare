@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_capture_editer_color">
+        <item>#fF0000</item>
+        <item>#0EE919</item>
+        <item>#fFC400</item>
+        <item>#00EAFF</item>
+        <item>#E001F3</item>
+    </string-array>
+</resources>
