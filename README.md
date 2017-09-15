@@ -14,4 +14,4 @@
 
 我们的截屏分享：
 
-![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture.gif
+![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture.gif)
