@@ -8,7 +8,7 @@
         
 *代码暂不完善。诸君根据情况自己修改合成拼接的logo代码。*
 
-金大师截屏分享：
+喏～对比一下下：
 
 ![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture-JDS.gif)
 ![image](https://github.com/pengfeigao/ScreeenCaptureShare/blob/master/screencapture/ScreenCapture.gif)
